@@ -1,4 +1,6 @@
-# Measuring Critical Performance Metrics with Google Analytics
+# Google Analytics Performance tags outlined in console
+
+## Measuring Critical Performance Metrics with Google Analytics
 
 These are the resource files needed for the [Measuring Critical Performance Metrics with Google Analytics](https://codelabs.developers.google.com/codelabs/performance-analytics/)
 code lab from Google.
